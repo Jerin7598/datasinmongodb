@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datasinmongodb/static/css/main.d714b85a.css",
+    "main.js": "/datasinmongodb/static/js/main.03cbbb59.js",
+    "static/js/787.71df535f.chunk.js": "/datasinmongodb/static/js/787.71df535f.chunk.js",
+    "index.html": "/datasinmongodb/index.html",
+    "main.d714b85a.css.map": "/datasinmongodb/static/css/main.d714b85a.css.map",
+    "main.03cbbb59.js.map": "/datasinmongodb/static/js/main.03cbbb59.js.map",
+    "787.71df535f.chunk.js.map": "/datasinmongodb/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d714b85a.css",
+    "static/js/main.03cbbb59.js"
+  ]
+}
